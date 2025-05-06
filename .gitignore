@@ -1,0 +1,30 @@
+# Build
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# Publish
+publish/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Configuração sensível
+ExcelImporter/ExcelImporter/App.config
+App.config
+
+# Outros
+*.bak
+*.tmp

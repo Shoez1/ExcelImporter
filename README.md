@@ -52,29 +52,4 @@ O executável estará em `bin/Release/net9.0-windows/win-x64/publish/ExcelImport
 
 ---
 
-## Publicação no GitHub
-
-1. **Clone ou crie o repositório:**
-   ```sh
-   git init
-   git add .
-   git commit -m "Primeiro commit do ExcelImporter"
-   git remote add origin https://github.com/seuusuario/ExcelImporter.git
-   git push -u origin master
-   ```
-2. **Inclua prints reais em `docs/`**
-   - Substitua `docs/layout.png` e `docs/export_progress.png` por prints reais da aplicação rodando.
-3. **Use o `.gitignore` já incluso** para evitar arquivos desnecessários no repositório.
-
----
-
-## Dúvidas?
-Abra uma issue no repositório ou consulte este README!
-
-## Recomendações para o GitHub
-- Não suba as pastas `bin/`, `obj/`, nem arquivos de configuração sensíveis.
-- Inclua este README.md e as imagens de tela na pasta `docs/`.
-
----
-
 **Dúvidas ou sugestões? Abra uma issue!**
